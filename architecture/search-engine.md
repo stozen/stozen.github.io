@@ -1,8 +1,8 @@
-# 系统:搜索引擎 <small>Search Engine</small>
+# 架构:搜索引擎 <small>Search Engine</small>
 
 <ol class="breadcrumb"><li><a href="/">Home</a></li><li class="active">Search Engine</li></ol>
 
-## 搜索引擎系统
+### 搜索引擎系统
 |名称|网址|说明|
 |------|------|------|
 |Lucene|http://lucene.apache.org/|毫无疑问，Lucene是目前最受欢迎的Java全文搜索框架，准确地说，它是一个全文检索引擎的架构，提供了完整的查询引擎和索引引擎，部分文本分析引擎。Lucene为开发人员提供了相当完整的工具包，可以非常方便地实现强大的全文检索功能。下面有几款搜索引擎框架也是基于Lucene实现的|

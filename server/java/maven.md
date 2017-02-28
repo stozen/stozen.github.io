@@ -1,6 +1,6 @@
 # Java:Maven
 
-<ol class="breadcrumb"><li><a href="/">Home</a></li><li><a href="/java/overview.md">Java</a></li><li class="active">Maven</li></ol>
+<ol class="breadcrumb"><li><a href="/">Home</a></li><li><a href="/server/java/overview.md">Java</a></li><li class="active">Maven</li></ol>
 
 ## 环境搭建
 1. [下载](http://maven.apache.org/download.cgi) 新版maven

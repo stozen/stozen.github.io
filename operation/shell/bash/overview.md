@@ -1,6 +1,6 @@
 # <span class="fa fa-hashtag" aria-hidden="true"></span> 脚本命令:Linux Bash
 
-<ol class="breadcrumb"><li><a href="/">Home</a></li><li class="active">Operation&amp;Maintenance</li><li><a href="/shell/overview.md">Shell</a></li><li class="active">Linux Bash</li></ol>
+<ol class="breadcrumb"><li><a href="/">Home</a></li><li><a href="/operation/shell/overview.md">Shell</a></li><li class="active">Linux Bash</li></ol>
 
 ## 文件操作
 * 更改当前目录 `cd`

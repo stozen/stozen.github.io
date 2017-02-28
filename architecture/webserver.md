@@ -1,8 +1,8 @@
 # 架构:Web服务器 <small>Web Server</small>
 
-<ol class="breadcrumb"><li><a href="/">Home</a></li><li class="active">Architecture</li><li class="active">Web Server</li></ol>
+<ol class="breadcrumb"><li><a href="/">Home</a></li><li class="active">Web Server</li></ol>
 
-## Web Server
+### Web Server
 |名称|网址|说明|
 |------|------|------|
 |IIS|http://www.iis.net/|IIS（Internet信息服务）英文InternetInformationServer的缩写。它是微软公司主推的服务器。IIS的特点具有：安全性，强大，灵活|
