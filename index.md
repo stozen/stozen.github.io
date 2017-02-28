@@ -25,3 +25,6 @@
 
 ### 产品 <small>Product</small>
 <a class="btn btn-primary" href="/product/tool.md" role="button"><span class="fa fa-product-hunt" aria-hidden="true"></span> 产品工具</a> <a class="btn btn-primary disabled" href="/product/project.md" role="button"><span class="fa fa-calendar-check-o" aria-hidden="true"></span> 项目管理</a> <a class="btn btn-primary disabled" href="/product/operation.md" role="button">运营</a> <a class="btn btn-default" href="/product/testing.md" role="button">测试</a> <a class="btn btn-primary" href="/product/continuous-integration.md" role="button">持续集成</a> <a class="btn btn-primary disabled" href="/product/continuous-delivery.md" role="button">持续交付</a> <a class="btn btn-default" href="/product/codereview.md" role="button">代码审核</a>
+
+### 视频 <small>Video</small>
+<a class="btn btn-primary" href="/video/youtube.md" role="button"><span class="fa fa-youtube-play" aria-hidden="true"></span> Youtube</a> <a class="btn btn-primary" href="/video/netflix.md" role="button">Netflix</a> <a class="btn btn-default" href="/video/bilibili.md" role="button">Bilibili</a>

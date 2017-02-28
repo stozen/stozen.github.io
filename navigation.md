@@ -58,3 +58,9 @@
   * [测试](/product/testing.md)
   * [**持续集成**](/product/continuous-integration.md)
   * [代码审核](/product/codereview.md)
+
+[视频]()
+
+  * [<span class="fa fa-youtube-play" aria-hidden="true"></span> Youtube](/video/youtube.md)
+  * [Netflix](/video/netflix.md)
+  * [Bilibili](/video/bilibili.md)
