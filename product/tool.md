@@ -38,4 +38,9 @@
 |StarUML|http://staruml.io/|StarUML(简称SU)，是一种创建UML类图，生成类图和其他类型的统一建模语言(UML)图表的工具。StarUML是一个开源项目之一发展快、灵活、可扩展性强|
 |Visio|https://products.office.com/zh-cn/visio/flowchart-software|VISIO，是VISIO公司在91年推出的用于制作图表的软件（现在微软收购），在早期它主要用作商业图表制作，后来随着版本的不断提高，新增了许多功能。大多数图形软件程序依赖于艺术技能。Office Visio2010便于IT和商务专业人员就复杂信息、系统和流程进行可视化处理、分析和交流的软件。可促进对系统和流程的了解，深入了解复杂信息并利用这些知识做出更好的业务决策。使用Visio可视方式传递重要信息就像打开模板、将形状拖放到绘图中以及对即将完成的工作应用主题一样轻松|
 |UMLet|http://www.umlet.com/|UMLet是一个开放源代码轻量级UML建模工具。UMLet能够让你快速建模，并且能够导出各种格式SVG, JPG, PDF and LaTeX-friendly EPS|
+|Gliffy|Chrome 插件|Gliffy 支持在线制作流程图，能够很好的支持中文，基础版本免费。在线制作的思维导图是公开的，高级版本有设置隐私权的权力。可以嵌入博客，办公室应用软件中，有很好的兼容性。其编辑的流程图图片可输出SVG,JPEG|
 
+### 缺陷管理
+|名称|网址|说明|
+|------|------|------|
+|MantisBT|https://github.com/mantisbt/mantisbt|Mantis是一个基于PHP技术的轻量级的开源缺陷跟踪系统，以Web操作的形式提供项目管理及缺陷跟踪服务。在功能上、实用性上足以满足中小型项目的管理及跟踪。更重要的是其开源，不需要负担任何费用|

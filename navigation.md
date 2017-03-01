@@ -65,8 +65,10 @@
   * [<span class="fa fa-youtube-play" aria-hidden="true"></span> **Youtube**](/video/youtube.md)
   * [**Netflix**](/video/netflix.md)
   * [Bilibili](/video/bilibili.md)
+  * [**Kurento**](/video/kurento.md)
   * [VideoLAN](/video/videolan.md)
   * [OBS](/video/obs.md)
+  * [来疯](/video/laifeng.md)
   * # 游戏领域
   * [**网易**](/game/netease.md)
   * [泡椒](/game/paojiao.md)
