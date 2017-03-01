@@ -1,21 +1,21 @@
 # Stozen' WIKI
 
-[客户端]()
+[前端]()
 
  * [<span class="fa fa-html5" aria-hidden="true"></span> **Html5**](/client/html5/overview.md)
  * [<span class="fa fa-android" aria-hidden="true"></span> **Android**](/client/android/overview.md)
  * [<span class="fa fa-apple" aria-hidden="true"></span> iOS](/client/ios/overview.md)
 
-[服务端]()
+[后端]()
 
  * [**Java**](/server/java/overview.md)
- * [<span class="fa fa-google" aria-hidden="true"></span> **Go**](/server/go/overview.md)
+ * [**Go**](/server/go/overview.md)
  * [**Node.js**](/server/nodejs/overview.md)
  * [**Python**](/server/python/overview.md)
  * [PHP](/server/php/overview.md)
- * [<span class="fa fa-windows" aria-hidden="true"></span> .Net](/server/dotnet/overview.md)
+ * [.Net](/server/dotnet/overview.md)
 
-[运维管理]()
+[运维]()
 
   * [<span class="fa fa-hashtag" aria-hidden="true"></span> **脚本命令**](/operation/shell/overview.md)
   * [<span class="fa fa-desktop" aria-hidden="true"></span> 监控](/operation/monitor/overview.md)
@@ -29,7 +29,7 @@
 
   * [<span class="fa fa-globe" aria-hidden="true"></span> 对等网络](/networking/p2p/overview.md)
   
-[数据存储]()
+[数据]()
 
   * [<span class="fa fa-database" aria-hidden="true"></span> **大数据**](/data/bigdata/overview.md)
   * [<span class="fa fa-database" aria-hidden="true"></span> 数据库](/data/database/overview.md)
@@ -59,8 +59,20 @@
   * [**持续集成**](/product/continuous-integration.md)
   * [代码审核](/product/codereview.md)
 
-[视频]()
+[开源]()
 
-  * [<span class="fa fa-youtube-play" aria-hidden="true"></span> Youtube](/video/youtube.md)
-  * [Netflix](/video/netflix.md)
+  * # 视频领域
+  * [<span class="fa fa-youtube-play" aria-hidden="true"></span> **Youtube**](/video/youtube.md)
+  * [**Netflix**](/video/netflix.md)
   * [Bilibili](/video/bilibili.md)
+  * [VideoLAN](/video/videolan.md)
+  * [OBS](/video/obs.md)
+  * # 游戏领域
+  * [**网易**](/game/netease.md)
+  * [泡椒](/game/paojiao.md)
+  * [U8SDK](/game/u8sdk.md)
+
+[业务]()
+
+  * [**直播行业**](/business/broadcaster.md)
+
