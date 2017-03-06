@@ -15,7 +15,7 @@
 |Rend|https://github.com/Netflix/rend|Go|Netflix 出品的与 memcached 协议兼容的高并发代理服务器|
 |Falcor|https://github.com/Netflix/falcor|Javascript|Netflix利用Falcor库实现通过JSON数据填充他们网页应用的用户界面。所有来自内存缓存或者多个数据库的后端数据，都通过一个虚拟JSON对象进行建模。这个JSON对象被称为“虚拟”，是因为从客户端的视角来看，这些数据来自内存，而事实上这些数据可能来自本地或者远程数据库|
 |Hystrix|https://github.com/Netflix/Hystrix|Java|Netflix近日发布了Hystrix，该库旨在通过控制那些访问远程系统、服务和第三方库的节点，从而对延迟和故障提供更强大的容错能力。Hystrix具备拥有回退机制和断路器功能的线程和信号隔离，请求缓存和请求打包，以及监控和配置等功能<br />![](images/netflix-hystrix-solution.png)|
-
+|Eureka|https://github.com/Netflix/eureka|Java|Netflix 填补了Amazon Web Services的大缺口，发布了云端负载均衡工具Eureka。Netflix通过开源工具让亚马逊的服务变得更可靠。亚马逊提供了一个负载均衡工具Elastic Load Balancer，但针对的是终端用户Web流量服务器，而Eureka针对的是中间层服务器的负载均衡。<br />![](images/netflix-eureka-arch.png)|
 
 
 
