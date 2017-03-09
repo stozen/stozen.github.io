@@ -10,10 +10,15 @@
 |SQL Server|https://www.microsoft.com/en-us/sql-server/sql-server-vnext-including-Linux|今年三月份，微软首次宣布自旗舰产品SQL Server将支持Linux平台，给世界带来了一个巨大的惊喜。到目前为止，只有被邀请才能预览。但是微软11月17日在纽约举办的Connect开发者大会上宣布，想尝试的用户现在可以试用其内测预览版了。此内测预览版是第一个可同时用于Windows和Linux的版本。<br />由于新版SQL Server支持Docker容器，甚至MacOS用户也能够运行。事实上，微软正下赌注——将容器作为预览的主要分发机制之一——它很快就会从Azure Virtual Machines和Docker Hub得到。用户也可以为Red Hat、Ubuntu和SUSE等流行的发行版下载其RPM、APT等格式的软件包|
 |`MySQL`|https://www.mysql.com/|MySQL是一个关系型数据库管理系统，由瑞典MySQL AB 公司开发，目前属于 Oracle 旗下产品。MySQL 是最流行的关系型数据库管理系统之一，在 WEB 应用方面，MySQL是最好的 RDBMS (Relational Database Management System，关系数据库管理系统) 应用软件|
 |Oracle|https://www.oracle.com/|Oracle Database，又名Oracle RDBMS，或简称Oracle。是甲骨文公司的一款关系数据库管理系统。它是在数据库领域一直处于领先地位的产品。可以说Oracle数据库系统是目前世界上流行的关系数据库管理系统，系统可移植性好、使用方便、功能强，适用于各类大、中、小、微机环境。它是一种高效率、可靠性好的 适应高吞吐量的数据库解决方案|
+|`AliSQL`|https://github.com/alibaba/AliSQL|AliSQL是阿里巴巴基于于MySQL官方版本的一个分支，应用于阿里巴巴集团业务以及阿里云数据库服务。目前由阿里云数据库团队维护。AliSQL版本在强度和广度上都经历了极大的考验。最新的AliSQL版本从其他开源分支比如：Percona，MariaDB，WebScaleSQL等社区得到帮助，也从阿里巴巴MySQL领域的经验和解决方案得到经验|
+|Percona|https://www.percona.com/|Percona Server为 MySQL 数据库服务器进行了改进，在功能和性能上较 MySQL 有着很显著的提升。该版本提升了在高负载情况下的 InnoDB 的性能、为 DBA 提供一些非常有用的性能诊断工具；另外有更多的参数和命令来控制服务器行为|
+|Oracle|https://www.oracle.com/|Oracle Database，又名Oracle RDBMS，或简称Oracle。是甲骨文公司的一款关系数据库管理系统。它是在数据库领域一直处于领先地位的产品。可以说Oracle数据库系统是目前世界上流行的关系数据库管理系统，系统可移植性好、使用方便、功能强，适用于各类大、中、小、微机环境。它是一种高效率、可靠性好的 适应高吞吐量的数据库解决方案|
 |`PostgreSQL`|https://www.postgresql.org/|PostgresQL是以加州大学伯克利分校计算机系开发的 POSTGRES，现在已经更名为PostgreSQL，版本 4.2为基础的对象关系型数据库管理系统（ORDBMS）。PostgreSQL支持大部分 SQL标准并且提供了许多其他现代特性：复杂查询、外键、触发器、视图、事务完整性、MVCC。同样，PostgreSQL 可以用许多方法扩展，比如， 通过增加新的数据类型、函数、操作符、聚集函数、索引。免费使用、修改、和分发 PostgreSQL，不管是私用、商用、还是学术研究使用|
 |`SQLite`|https://www.sqlite.org/|SQLite，是一款轻型的数据库，是遵守ACID的关系型数据库管理系统，它包含在一个相对小的C库中。它是D.RichardHipp建立的公有领域项目。它的设计目标是嵌入式的，而且目前已经在很多嵌入式产品中使用了它，它占用资源非常的低，在嵌入式设备中，可能只需要几百K的内存就够了。它能够支持Windows/Linux/Unix等等主流的操作系统，同时能够跟很多程序语言相结合，比如 Tcl、C#、PHP、Java等，还有ODBC接口，同样比起Mysql、PostgreSQL这两款开源的世界著名数据库管理系统来讲，它的处理速度比他们都快|
 |Informix|http://www.ibm.com/analytics/us/en/technology/informix/|Informix是IBM公司出品的关系数据库管理系统（RDBMS）家族。作为一个集成解决方案，它被定位为作为IBM在线事务处理（OLTP）旗舰级数据服务系统。 IBM对Informix和DB2都有长远的规划，两个数据库产品互相吸取对方的技术优势|
 |Realm|https://realm.io/|realm是一个跨平台移动数据库引擎,支持iOS、OS X(Objective-C和Swift)以及Android|
+|Firebird|https://github.com/FirebirdSQL/firebird|Firebird特性介绍firebird是一个全功能的，强大高效的，轻量级，免维护的数据库。它很容易让您从单用户，单数据库升级到企业级的应用。 给中小型企业提供了一个很好的工具，一些需要小的数据库的软件|
+|Berkeley DB|http://www.oracle.com/technetwork/database/database-technologies/berkeleydb/overview/index.html|Berkeley DB是一个开源的文件数据库，介于关系数据库与内存数据库之间，使用方式与内存数据库类似，它提供的是一系列直接访问数据库的函数，而不是像关系数据库那样需要网络通讯、SQL解析等步骤|
 
 #### 键值存储数据库
 |名称|网址|说明|
@@ -21,11 +26,16 @@
 |BeansDB|https://github.com/douban/beansdb|BeansDB（豆瓣开源数据存储系统），豆瓣公司以New BSD许可证发布了分布式key/value存储系统BeansDB，开发者称BeansDB是简化版的Dynamo，Dynamo是亚马逊公司开发的高可用性key/value存储系统|
 |`Redis`|https://redis.io/|Redis 是一个高性能的key-value数据库。 redis的出现，很大程度补偿了memcached这类key/value存储的不足，在部 分场合可以对关系数据库起到很好的补充作用。它提供了Java，C/C++，C#，PHP，JavaScript，Perl，Object-C，Python，Ruby，Erlang等客户端，使用很方便|
 |Tair|http://tair.taobao.org/|Tair是一个高性能，分布式，可扩展，高可靠的key/value结构存储系统！Tair专为小文件优化，并提供简单易用的接口（类似Map），Tair支持Java和C版本的客户端|
+|LevelDB|https://github.com/google/leveldb|Leveldb是一个google实现的非常高效的kv数据库，目前的版本1.2能够支持billion级别的数据量了。 在这个数量级别下还有着非常高的性能，主要归功于它的良好的设计。特别是LSM算法|
+|Couchbase|https://www.couchbase.com/|CouchBase并非CouchDB的新版本，相反，它实际上是MemBase的新版本。CouchBase Server实际上是MemBase Server的新名字。CouchBase并非CouchDB的替代，而是MemBase的替代版本|
+|STSdb|https://github.com/STSSoft/STSdb4|STSdb是C#写的开源嵌入式数据库和虚拟文件系统，支持实时索引，性能是同类产品的几倍到几十倍|
+|`SSDB`|https://github.com/ideawu/ssdb|SSDB 是一个 C/C++ 语言开发的高性能 NoSQL 数据库, 支持 zset(sorted set), map(hash), kv, list 等数据结构, 用来替代或者与 Redis 配合存储十亿级别列表的数据. SSDB 在 QIHU 360 被大量使用, 同时也被国内外业界的众多互联网企业所使用|
 
 #### 面向文档数据库
 |名称|网址|说明|
 |------|------|------|
 |`MongoDB`|https://www.mongodb.com/|MongoDB是一个介于关系数据库和非关系数据库之间的产品，是非关系数据库当中功能最丰富，最像关系数据库的。他支持的数据结构非常松散，是类似json的bson格式，因此可以存储比较复杂的数据类型。Mongo最大的特点是他支持的查询语言非常强大，其语法有点类似于面向对象的查询语言，几乎可以实现类似关系数据库单表查询的绝大部分功能，而且还支持对数据建立索引|
+|`MemDB`|https://github.com/rain1017/memdb|MemDB 是全球首个支持分布式事务的 MongoDB。<br />![](images/database-memdb-arch.png)|
 |OrientDB|http://orientdb.com/orientdb/|OrientDB是兼具文档数据库的灵活性和图形数据库管理链接能力的可深层次扩展的文档-图形数据库管理系统。可选无模式、全模式或混合模式下。支持许多高级特性，诸如ACID事务、快速索引，原生和SQL查询功能。可以JSON格式导入、导出文档。若不执行昂贵的JOIN操作的话，如同关系数据库可在几毫秒内可检索数以百记的链接文档图|
 |iBoxDB|http://www.iboxdb.com/|iBoxDB是一个具有双引擎(Java 和 C#)的高性能NoSQL数据库，支持直接在虚拟机上运行而无需获取机器码执行权限，内置了非结构化数据存取，ORM，缓存等模块，不依赖任何第三方功能组件，实现了一站式的应用程序数据处理服务， 可以帮助开发人员使用应用程序开发语言编写数据库操作代码，不受SQL有限语法所局限，可用递归式SQL查询(ftserver)。同时融合了关系数据库，对象数据库，文档数据库和嵌入式数据库的优点，支持 Java C# Android Mono Unity3D Xamarin ASP.NET Core JSP Windows Phone Nashorn Windows Linux OS X。内置了事务管理, 内存管理, 支持动态属性, 支持索引, 多数据库热同步等最先进的数据库特性，微内核结构，精简高效，直接复制就能运行在移动设备, 桌面系统及服务器上|
 
