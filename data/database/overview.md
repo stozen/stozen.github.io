@@ -55,6 +55,8 @@
 |GraphDB|http://www.graphdb.net/|GraphDB是德国sones公司在.NET基础上构建的。Sones公司于2007年成立，近年来陆续进行了几轮融资。GraphDB社区版遵循AGPL v3许可协议，企业版是商业化的。GraphDB托管在Windows Azure平台上|
 |InfoGrid|http://infogrid.org/trac/|InfoGrid是一个post关系web应用程序的平台。它提供了以下特点: 与选择的图形数据库SQL,原始文件,或网格存储作为存储引擎|
 |HyperGraphDB|http://www.hypergraphdb.org/|HyperGraphDB 是一个可用于一般应用环境下的强大的存储系统，基于 directed hypergraphs 理论构建，提供持久化的内存模型设计、AI 和语义网络，可作为 Java 项目的嵌入式面向对象数据库或者图形数据库、或者是 NoSQL 数据库|
+|`Titan`|https://github.com/thinkaurelius/titan|Titan 是一个在服务器集群搭建的分布式的图形数据库，特别为存储和处理大规模图形而优化。集群很容易扩展以支持更大的数据集，Titan有一个很好的插件式性能，这个性能让它搭建在一些成熟的数据库技术上像 Apache Cassandra、Apache HBase、 Oracle BerkeleyDB。插件式索引架构可以整合 ElasticSearch 和Lucene技术。内置实现 Blueprints  graph API，支持 TinkerPop所有的技术|
+|`Cayley`|https://github.com/cayleygraph/cayley|Cayley是受Freebase和Google的Knowledge Graph背后的图数据库graphd所启发，由Google工程师Barak Michener开发的一款开源图数据库。Cayley的目标是成为开发者在Linked Data 和图数据（语义网络、社交网络等）的工具之一。初步性能测试表明，在普通PC硬件和硬盘上，基于LevelDB存储的Cayley跑1.34亿三元组毫无压力，多跳交叉查询（比如有X和Y两位影星同时出演的电影）只需150ms|
 
 #### 缓存
 |名称|网址|说明|
