@@ -59,6 +59,10 @@
   * [**持续集成**](/product/continuous-integration.md)
   * [代码审核](/product/codereview.md)
 
+[管理]()
+
+ * [管理名词](/management/keywords.md)
+
 [开源]()
 
   * # 视频领域
