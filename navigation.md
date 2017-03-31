@@ -61,7 +61,8 @@
 
 [管理]()
 
- * [管理名词](/management/keywords.md)
+ * [管理名词](/management/management-keywords.md)
+ * [战略名词](/management/strategy-keywords.md)
 
 [开源]()
 

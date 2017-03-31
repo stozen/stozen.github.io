@@ -1,6 +1,6 @@
-# 行政人事管理:管理名词 <small>Keywords</small>
+# 行政人事管理:管理名词 <small>Management Keywords</small>
 
-<ol class="breadcrumb"><li><a href="/">Home</a></li><li class="active">Keywords</li></ol>
+<ol class="breadcrumb"><li><a href="/">Home</a></li><li class="active">Management Keywords</li></ol>
 
 ### 管理名词
 |英文名|中文名|说明|
