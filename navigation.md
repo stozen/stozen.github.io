@@ -79,6 +79,7 @@
   * [**网易**](/game/netease.md)
   * [泡椒](/game/paojiao.md)
   * [U8SDK](/game/u8sdk.md)
+  * [TypeSDK](/game/typesdk.md)
 
 [业务]()
 

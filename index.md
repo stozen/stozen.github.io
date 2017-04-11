@@ -37,7 +37,7 @@
 <a class="btn btn-primary" href="/video/youtube.md" role="button"><span class="fa fa-youtube-play" aria-hidden="true"></span> Youtube</a> <a class="btn btn-primary" href="/video/netflix.md" role="button">Netflix</a> <a class="btn btn-default" href="/video/bilibili.md" role="button">Bilibili</a> <a class="btn btn-primary" href="/video/kurento.md" role="button">Kurento</a> <a class="btn btn-default" href="/video/videolan.md" role="button">VideoLAN</a> <a class="btn btn-default" href="/video/obs.md" role="button">OBS</a> <a class="btn btn-default" href="/video/laifeng.md" role="button">来疯</a> <a class="btn btn-default" href="/video/anyrtc.md" role="button">铂渊</a>
 
 #### 游戏领域 <small>Game</small>
-<a class="btn btn-primary" href="/game/netease.md" role="button">网易</a> <a class="btn btn-default" href="/game/paojiao.md" role="button">泡椒</a> <a class="btn btn-default" href="/game/u8sdk.md" role="button">U8SDK</a>
+<a class="btn btn-primary" href="/game/netease.md" role="button">网易</a> <a class="btn btn-default" href="/game/paojiao.md" role="button">泡椒</a> <a class="btn btn-default" href="/game/u8sdk.md" role="button">U8SDK</a> <a class="btn btn-default" href="/game/typesdk.md" role="button">TypeSDK</a>
 
 ### 个人开源
 
