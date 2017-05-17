@@ -9,3 +9,8 @@
 |Magnific|https://github.com/dimsemenov/Magnific-Popup|Magnific Popup 是一个免费的 jQuery lightbox 插件，侧重于性能和任意设备上的最佳体验，兼容 Zepto.js|
 |colorbox|https://github.com/jackmoore/colorbox|A customizable lightbox plugin for jQuery. See the project page for documentation and a demonstration, and the FAQ for solutions and examples to common issues. Released under the MIT license|
 
+### Javascript插件
+|名称|网址|说明|
+|------|------|------|
+|SweetAlert|https://github.com/t4t5/sweetalert|SweetAlert可以替代JavaScript原生的alert和confirm等函数呈现的弹出提示框，它将提示框进行了美化，并且允许自定义，支持设置提示框标题、提示类型、内容展示图片、确认取消按钮文本、点击后回调函数等|
+
